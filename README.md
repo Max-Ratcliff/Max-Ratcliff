@@ -5,5 +5,7 @@ Currently, I am a Resident Assistant and Research Assistant at UCSC, where I men
 My projects range from developing expression parsers and matrix calculators to AI-driven scheduling tools. I am also building a portfolio website to showcase my work and skills.
 
 🌎 Portfolio: ratcliff.cc
+
 🔹 Interests: Machine Learning, Computational Mathematics, Software Engineering, Control Theory
+
 🗣️ Languages: English, German
