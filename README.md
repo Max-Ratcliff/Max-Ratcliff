@@ -1,4 +1,4 @@
-I am a third year Applied Mathematics and Computer Science student at UC Santa Cruz with a strong foundation in scientific computing, machine learning, and software engineering. My technical expertise includes C, C++, Java, Python, MATLAB, Fortran 90, and RISCV, with some experience in web development using HTML, CSS, and JavaScript. I am passionate about learning how to use computational mathematics and AI to solve real-world problems.
+I am a third year Applied Mathematics and Computer Science Engineering at UC Santa Cruz with a strong foundation in scientific computing, machine learning, and software engineering. My technical expertise includes C, C++, Java, Python, MATLAB, Fortran 90, and RISCV, with some experience in web development using HTML, CSS, and JavaScript. I am passionate about learning how to use computational mathematics and AI to solve real-world problems.
 
 Currently, I am a Resident Assistant and Research Assistant at UCSC, where I mentor students, conduct research on how AI-powered learning tools can improve knowledge gaps in foundational calculus education, as well as research on bacterial cell germination
 
