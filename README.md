@@ -1,13 +1,31 @@
-I am a third year Applied Mathematics and Computer Science Engineering at UC Santa Cruz with a strong foundation in scientific computing, machine learning, and software engineering. My technical expertise includes C, C++, Java, Python, MATLAB, Fortran 90, and RISCV, with some experience in web development using HTML, CSS, and JavaScript. I am passionate about learning how to use computational mathematics and AI to solve real-world problems.
+# Max Ratcliff
+**Applied Mathematics & Computer Engineering @ UC Santa Cruz**  
+[Portfolio](https://www.ratcliff.cc) | [LinkedIn](www.linkedin.com/in/max-ratcliff) | max@ratcliff.cc
 
-Currently, I am a Resident Assistant and Research Assistant at UCSC, where I mentor students, conduct research on how AI-powered learning tools can improve knowledge gaps in foundational calculus education, as well as research on bacterial cell germination
+---
 
-My projects range from developing expression parsers, to AI-driven scheduling tools, weather prediction models and Cellmicroscopy pipelines. Please check out my portfolio for a showcase of my work and skills.
+### About Me
+I am a developer and researcher passionate about applying computational mathematics, ML, and control theory to solve complex real-world problems. My experience spans foundational models for space exploration, LLM orchestration infrastructure, and neuromorphic computing.
 
-🌎 Portfolio: [ratcliff.cc](https://www.ratcliff.cc)
+### Experience Highlights
+* **NASA Jet Propulsion Laboratory** — *Machine Learning Intern*  
+  *Building Mars foundational vision models for image captioning and autonomous onboard analysis.*
+* **AMI** — *Software Engineering Intern*  
+  *Engineered centralized LLM orchestration infrastructure using LiteLLM with custom guardrails, token validation, and rate limiting.*
+* **UCSC ARO Lab** — *SciAI Pathways Scholar & Undergraduate Researcher*  
+  *Developing deep learning models for biological control systems, wound-healing forecasting (`HealNet`), and sub-second cell microscopy pipelines.*
+* **UCSC Neuromorphic Computing** — *Undergraduate Researcher*  
+  *Investigated SNN alignment with biological latent manifolds using JEPA and Canonical Correlation Analysis.*
 
-🔹 Interests: Machine Learning, Computational Mathematics, Software Engineering, Control Theory
+### Core Competencies
+* **Programming:** Python, C, C++, Fortran 90, MATLAB, Java, RISC-V
+* **Methods:** Scientific Computing, Computer Vision, Spiking Neural Networks, Control Systems, Optimization Algorithms
+* **Languages:** English (Native), German (Native)
 
-💻 Languages: Python, C, C++, Fortran, Java, JavaScript
-
-🗣️ Languages: English, German
+### Recent Work
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **HealNet** | Multimodal wound stage classification & progression forecasting | PyTorch, ResNet |
+| **Physics Drone Routing** | Asymmetric TSP optimization modeling aerodynamic drag | Python, Scientific Computing |
+| **Efficient Chess-AI** | Hybrid Minimax + ResNet neural evaluator engine (~1647 ELO) | Python, Deep Learning |
+| **Conv VAE Weather** | Denoising & autoregressive models for weather prediction | PyTorch, VAEs |
