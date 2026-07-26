@@ -7,7 +7,7 @@
 ### About Me
 I am a developer and researcher passionate about applying computational mathematics, ML, and control theory to solve complex real-world problems. My experience spans foundational models for space exploration, LLM orchestration infrastructure, and neuromorphic computing.
 
-### Experience Highlights
+### Experience
 * **NASA Jet Propulsion Laboratory** — *Machine Learning Intern*  
   *Building Mars foundational vision models for image captioning and autonomous onboard analysis.*
 * **AMI** — *Software Engineering Intern*  
@@ -17,7 +17,7 @@ I am a developer and researcher passionate about applying computational mathemat
 * **UCSC Neuromorphic Computing** — *Undergraduate Researcher*  
   *Investigated SNN alignment with biological latent manifolds using JEPA and Canonical Correlation Analysis.*
 
-### Core Competencies
+### Skills
 * **Programming:** Python, C, C++, Fortran 90, MATLAB, Java, RISC-V
 * **Methods:** Scientific Computing, Computer Vision, Spiking Neural Networks, Control Systems, Optimization Algorithms
 * **Languages:** English (Native), German (Native)
